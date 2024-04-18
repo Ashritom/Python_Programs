@@ -1,3 +1,10 @@
+#Hungman game is a very popular game where you have 6 chances to guess the letters of a random word(HERE PROVIDED WITH 200 WORDS). 
+#Here the program is based on the same game.Whenever you guess a correct letter of a word then it will replace the blank  
+#if not the you will lose one of your 6 lives."TRY NOT TO HUNGMAN".....GOOD LUCK.....!!!
+
+
+
+
 import random
 
 logo = '''
